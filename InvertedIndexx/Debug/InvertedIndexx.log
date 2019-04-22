@@ -1,0 +1,4 @@
+﻿  InvertedIndex.cpp
+c:\users\dimityr\source\repos\invertedindexx\invertedindexx\invertedindex.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\dimityr\source\repos\invertedindexx\invertedindexx\invertedindex.cpp(315): warning C4715: 'getPrecedence': not all control paths return a value
+  InvertedIndexx.vcxproj -> C:\Users\Dimityr\source\repos\InvertedIndexx\Debug\InvertedIndexx.exe
